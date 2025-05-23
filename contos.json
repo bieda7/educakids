@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "titulo": "A Fada das Cores",
+    "autor": "Equipe KidsTech",
+    "idade_recomendada": "4-7",
+    "texto": "Era uma vez uma fada que pintava os arco-íris..."
+  },
+  {
+    "id": 2,
+    "titulo": "O Leão e o Ratinho",
+    "autor": "Esopo",
+    "idade_recomendada": "5-8",
+    "texto": "Um leão estava dormindo quando um ratinho começou a correr sobre ele..."
+  }
+]

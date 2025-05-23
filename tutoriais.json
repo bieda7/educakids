@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "titulo": "Massinha Divertida",
+    "descricao": "Aprenda a fazer massinha caseira com ingredientes simples.",
+    "materiais": ["Farinha", "Água", "Sal", "Corante alimentício"]
+  },
+  {
+    "id": 2,
+    "titulo": "Pega-Pega das Cores",
+    "descricao": "Brincadeira onde cada cor tem um desafio.",
+    "materiais": ["Papel colorido", "Fita adesiva"]
+  }
+]

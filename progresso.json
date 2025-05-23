@@ -1,0 +1,20 @@
+[
+  {
+    "id_crianca": 1,
+    "nome": "Lucas",
+    "progresso": {
+      "atividades_concluidas": 3,
+      "total_atividades": 5,
+      "percentual": 60
+    }
+  },
+  {
+    "id_crianca": 2,
+    "nome": "Sofia",
+    "progresso": {
+      "atividades_concluidas": 5,
+      "total_atividades": 5,
+      "percentual": 100
+    }
+  }
+]

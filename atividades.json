@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nome": "Jogo da Matemática",
+    "idade_recomendada": "6-8",
+    "descricao": "Ajude a contar e somar números brincando."
+  },
+  {
+    "id": 2,
+    "nome": "Letras Mágicas",
+    "idade_recomendada": "5-7",
+    "descricao": "Monte palavras com peças coloridas."
+  },
+  {
+    "id": 3,
+    "nome": "Pintando com Números",
+    "idade_recomendada": "4-6",
+    "descricao": "Associe números às cores para pintar desenhos."
+  }
+]
